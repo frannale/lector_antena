@@ -16,15 +16,15 @@
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/juanf/Downloads/SDK Antena/R2000 Java V1.20/JT_R2kS_J1.20_SDK/dll"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/user/Desktop/lector_antena/lib/activation-1.1.jar"/>
-	<classpathentry kind="lib" path="/home/user/Desktop/lector_antena/lib/javax.mail.jar"/>
-	<classpathentry kind="lib" path="/home/user/Desktop/lector_antena/lib/retrofit-2.9.0.jar"/>
-	<classpathentry kind="lib" path="/home/user/Desktop/lector_antena/lib/gson-2.8.2.jar"/>
-	<classpathentry kind="lib" path="/home/user/Desktop/lector_antena/lib/converter-gson-2.9.0.jar"/>
-	<classpathentry kind="lib" path="/home/user/Desktop/lector_antena/lib/okio-2.2.2.jar"/>
-	<classpathentry kind="lib" path="/home/user/Desktop/lector_antena/lib/okhttp-4.2.1.jar"/>
-	<classpathentry kind="lib" path="/home/user/Desktop/lector_antena/lib/kotlin-stdlib-1.3.50.jar"/>
-	<classpathentry kind="lib" path="/home/user/Desktop/lector_antena/lib/kotlin-stdlib-common-1.3.50.jar"/>
-	<classpathentry kind="lib" path="/home/user/Desktop/lector_antena/lib/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="/home/fran/ARSTACK/lector_antena/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="/home/fran/ARSTACK/lector_antena/lib/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="/home/fran/ARSTACK/lector_antena/lib/converter-gson-2.9.0.jar"/>
+	<classpathentry kind="lib" path="/home/fran/ARSTACK/lector_antena/lib/okio-2.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/fran/ARSTACK/lector_antena/lib/okhttp-4.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/fran/ARSTACK/lector_antena/lib/kotlin-stdlib-1.3.50.jar"/>
+	<classpathentry kind="lib" path="/home/fran/ARSTACK/lector_antena/lib/kotlin-stdlib-common-1.3.50.jar"/>
+	<classpathentry kind="lib" path="/home/fran/ARSTACK/lector_antena/lib/annotations-13.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/retrofit-2.9.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
